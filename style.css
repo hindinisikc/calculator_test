@@ -48,5 +48,9 @@ button:hover {
 }
 
 .zero {
-    grid-column: span 4;
+    grid-column: span 3;
+}
+
+.equal {
+    grid-row: span 3;
 }
