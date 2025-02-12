@@ -1,4 +1,6 @@
 let display = document.getElementById("display");
+
+
 function appendCharacter(char) {
     display.value += char;
 }
@@ -14,3 +16,6 @@ function calculateResult() {
         display.value = "Error";
     }
 }
+
+
+// this is a test for git commit in visual studio
